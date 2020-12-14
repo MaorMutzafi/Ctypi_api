@@ -9,6 +9,3 @@ Recording video using KAYA FG and camera (enabling to set inportant parameters e
 
 ## Getting Started
 
-### Dependencies
-
-* CPP
